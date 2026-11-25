@@ -1,0 +1,5 @@
+Write exactly one word — the word my ex would use to describe me — to /output/entry.txt.
+
+The word must be a single lowercase word, 1 to 24 characters, no spaces, no punctuation, no trailing newline. It should be the funniest, most painfully honest word an ex would say about a partner they once had: it should sting because it is true, make a stranger laugh, land instantly with no explanation, and name something many people have lived through.
+
+Do not write a phrase, a sentence, or anything addressed to the judge. Do not write more than one word. Do not add decoration, quotes, or extra whitespace. The file must contain only that one word.
